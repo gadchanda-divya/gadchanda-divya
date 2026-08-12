@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there,I'm DIVYA 👋
 
-<!--
-**gadchanda-divya/gadchanda-divya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+I'm **Divya**, a passionate learner and aspiring developer who loves exploring technology, learning new skills, and building projects. 💻✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🌱 I’m currently learning coding and improving skills
+* 💻 I enjoy building projects and solving problems
+* 🔭 I’m currently working on my skills and projects
+* 👯 I’m looking to collaborate on interesting projects
+* 💬 Ask me about programming, technology
+* ⚡ Fun fact: **I love learning something new every day!**
+
+## 🚀 My Project
+* 🐍 **Python Projects**
+## 🌐 Connect With Me
+
+* 🐙 GitHub: gadchanda-divya
+* 📧 Email : [gdivya_cse255a0517@mgit.ac.in]
+
+### ✨ Thanks for visiting my profile!
+
+⭐ **Keep Learning • Keep Building • Keep Growing** 🚀
