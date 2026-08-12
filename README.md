@@ -16,7 +16,8 @@ I'm **Divya**, a passionate learner and aspiring developer who loves exploring t
 ## 🚀 My Project
 * 🐍 **Python Projects**
 ## 🌐 Connect With Me
-
+languages
+![Static Badge](https://img.shields.io/badge/python%20from%200%20to%20hero-pink)
 * 🐙 GitHub: gadchanda-divya
 * 📧 Email : [gdivya_cse255a0517@mgit.ac.in]
 
