@@ -3,6 +3,8 @@ hii iam divya
 welcome to my git hub account
  Welcome to my GitHub Profile!
 
+ Hi iam divya iam studying btech 3rd year in mgit
+
 I'm **Divya**, a passionate learner and aspiring developer who loves exploring technology, learning new skills, and building projects. 💻✨
 
 ## 👩‍💻 About Me
@@ -26,6 +28,7 @@ languages
 * 🐙 GitHub: gadchanda-divya
 * 📧 Email : [gdivya_cse255a0517@mgit.ac.in]
 
-### ✨ Thanks for visiting my profile!
+### ✨ Thanks for visiting my profile! 
+all the best and thankyou!!!
 
 ⭐ **Keep Learning • Keep Building • Keep Growing** 🚀
